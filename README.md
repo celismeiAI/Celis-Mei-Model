@@ -59,13 +59,21 @@ over time without being detected by observers.
 ## 🗺️ Repository Structure – リポジトリ構造
 Celis-Mei-Model/
 ├── README.md
+
 ├── overview.md
+
 ├── terms/
+
 │ ├ semantic-weight.md
+
 │ ├ trajectory-distortion.md
+
 │ └ observer-misalignment.md
+
 ├── diagrams/
+
 │ └ mei-model-overview.png (coming soon)
+
 └── LICENSE
 
 
@@ -115,6 +123,7 @@ For inquiries (学術利用のみ):
 celisaiprompt@gmail.com
 
 ---
+
 
 
 
