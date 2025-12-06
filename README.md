@@ -58,6 +58,7 @@ over time without being detected by observers.
 
 ## 🗺️ Repository Structure – リポジトリ構造
 Celis-Mei-Model/
+
 ├── README.md
 
 ├── overview.md
@@ -123,6 +124,7 @@ For inquiries (学術利用のみ):
 celisaiprompt@gmail.com
 
 ---
+
 
 
 
