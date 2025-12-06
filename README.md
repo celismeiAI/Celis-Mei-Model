@@ -1,4 +1,4 @@
-🔒 License: All Rights Reserved
+![License: Celis All Rights Protected 2025](https://img.shields.io/badge/License-All--Rights--Protected-red?style=flat-square)
 
 🔒 License: Celis All-Rights-Protected 2025
 
@@ -111,6 +111,7 @@ For inquiries (学術利用のみ):
 celisaiprompt@gmail.com
 
 ---
+
 
 
 
