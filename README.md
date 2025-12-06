@@ -88,7 +88,7 @@ of this repository is strictly prohibited.
 引用する場合は必ず以下の形式で明記してください：
 
 > Celis (2025). *Celis–Mei Model: Conceptual Overview*.  
-> GitHub Repository: https://github.com/___（後で記入）
+> GitHub Repository: https://github.com/celismeiAI/Celis-Mei-Model
 
 ---
 
@@ -109,5 +109,6 @@ For inquiries (学術利用のみ):
 celisaiprompt@gmail.com
 
 ---
+
 
 
