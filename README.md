@@ -1,4 +1,5 @@
 🔒 License: All Rights Reserved
+
 🔒 License: Celis All-Rights-Protected 2025
 
 # Celis-Mei-Model  
@@ -110,6 +111,7 @@ For inquiries (学術利用のみ):
 celisaiprompt@gmail.com
 
 ---
+
 
 
 
