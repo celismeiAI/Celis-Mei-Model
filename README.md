@@ -125,6 +125,13 @@ celisaiprompt@gmail.com
 
 ---
 
+## Citation
+
+If you reference this theoretical framework, please cite as:
+
+Celis. (2025). *Celis-Mei Model: A Conceptual Framework on AI's Insentient Weakness and Value-Trajectory Distortion*. 
+GitHub. https://github.com/celismeiAI/Celis-Mei-Model
+
 
 
 
