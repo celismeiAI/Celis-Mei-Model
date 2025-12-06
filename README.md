@@ -1,5 +1,9 @@
 ![License: Celis All Rights Protected 2025](https://img.shields.io/badge/License-All--Rights--Protected-red?style=flat-square)
 
+> **⚠️ This repository contains original theoretical work by Celis.  
+Unauthorized use, reproduction, or modification is strictly prohibited.**  
+
+
 🔒 License: Celis All-Rights-Protected 2025
 
 # Celis-Mei-Model  
@@ -111,6 +115,7 @@ For inquiries (学術利用のみ):
 celisaiprompt@gmail.com
 
 ---
+
 
 
 
